@@ -1,4 +1,4 @@
-# ENERGY STAR Score Prediction Using Machine Learning
+# ENERGY STAR SCORE Prediction Using Machine Learning
 
 ## Project Overview
 
